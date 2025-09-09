@@ -21,3 +21,7 @@ React(Vite)
 2. Quiz Page - Quiz questions and options, timmer, navigation button, and overview panel
 3. Submission Page - Score analysis and chart
 4. Answers Page - Questions and their answers (correct/incorrect)
+
+## Live Deployed Link 
+
+https://quiz-app-amber-six.vercel.app/
